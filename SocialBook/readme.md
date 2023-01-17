@@ -8,9 +8,7 @@ Responsive bir çalışma değildir.
 
 <!-- ![](/images/%C3%96rnek%20G%C3%B6r%C3%BCn%C3%BCm.jpg)  -->
 
-<img src="/images/%C3%96rnek%20G%C3%B6r%C3%BCn%C3%BCm.jpg" width=800px>
-<br>
-<br>
+<img src="/SocialBook/images/Örnek Görünüm.jpg" width=800px>
 
 [Yapılan çalışmanın youtube videosuna buradan ulaşabilirsiniz.](https://www.youtube.com/watch?v=NljIHlZRTTE&ab_channel=EasyTutorials)
 
